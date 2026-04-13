@@ -41,3 +41,16 @@ The performance of each model was evaluated using R2, MAE, RMSE, and MSE:
 | LR |   0.6307 | 63.84 | 7899.51 |88.88 |
 | KNN | 0.8341 | 20.11 | 3548.68 | 59.57 |
 | RF | **0.8722** | **29.15** | **2735.10** | **52.30** |
+
+---
+
+# 👥 Team Members
+
+| Student ID | Name          |
+| ---------- | ------------- |
+| 242UT2449Z | KHO WEI CONG  |
+| 242UT244B2 | TEE KIAN HAO  |
+| 242UT2449P | SEE CHWAN KAI |
+| 242UT24490 | TEO JING AN   |
+
+---
